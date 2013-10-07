@@ -1,0 +1,9 @@
+{
+  "name": "co-redis",
+  "description": "",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "~0.8.6"
+  }
+}
